@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: lightyellow;
+}
+
+h1 {
+  font-family: fantasy;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
