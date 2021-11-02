@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  background-color: lightyellow;
+}
+
+h1 {
+  font-family: cursive;
+}
+
+img {
+  width: 350px;
+}
+
+li, p {
+  padding: 0 250px;
+}
+
+li {
+  padding-bottom: 15px;
+  list-style-type: none;
+}
